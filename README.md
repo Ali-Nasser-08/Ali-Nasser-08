@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ali-Nasser-08/affinity/main/public/title-card.png" alt="Affinity English" width="720" />
+  <img src="assets/ali-alghamdi-title-card.png" alt="Ali Alghamdi" width="720" />
 </p>
 
 <br/>
 
 <h1 align="center">Ali Alghamdi</h1>
 <p align="center">
-  Computer Science student · Building software for real classrooms and real problems
+  Computer Science alum · Building software for wellbeing and real problems
 </p>
 
 <br/>
@@ -15,14 +15,18 @@
 
 ## Affinity English
 
+<p align="center">
+  <img src="assets/title-card.png" alt="Affinity English" width="720" />
+</p>
+
 > *A classroom tool built for the Saudi English classroom. Designed with intention. Built with care.*
 
 Affinity English is a **teacher-facing classroom presentation tool** built specifically for Saudi Arabian English classrooms following the Mega Goal curriculum. The teacher opens it, projects it on the whiteboard, and the class sees it. It covers the full **Mega Goal 1** curriculum across 12 units.
 
-At its core is a proprietary system called the **Serotonin Engine** — 9 accent colors, each with a curated set of harmonious secondaries, cycling continuously across every screen. Grammar structures are **badged**, key terms are **colorized**, and important phrases are **highlighted** — all adapting live to whichever color is active. The font is Fredoka. Nothing about it looks like a school tool.
+At its core is a color system I built called the **Serotonin Engine** — 9 accent colors, each with a curated set of harmonious secondaries, cycling continuously across every screen. Grammar structures are **badged**, key terms are **colorized**, and important phrases are **highlighted** — all adapting live to whichever color is active. The font is Fredoka. Nothing about it looks like a school tool.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ali-Nasser-08/affinity/main/public/SerotoninEngine-card.png" alt="The Serotonin Engine" width="720" />
+  <img src="assets/SerotoninEngine-card.png" alt="The Serotonin Engine" width="720" />
 </p>
 
 **What it includes:**
@@ -37,10 +41,14 @@ At its core is a proprietary system called the **Serotonin Engine** — 9 accent
 - **Students & Stars** — Class rosters with 567 distinct student profiles (9 colors × 63 symbols), four star tiers, and print-ready personalized certificate reports
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ali-Nasser-08/affinity/main/public/revise-card.png" alt="Revise & Star Challenge" width="720" />
+  <img src="assets/student-and-stars-card.png" alt="Students & Stars" width="720" />
 </p>
 
 **Built with:** React · Gemini · Supabase
+
+<p align="center">
+  <img src="assets/bottom-card.png" alt="Affinity English" width="720" />
+</p>
 
 ---
 
